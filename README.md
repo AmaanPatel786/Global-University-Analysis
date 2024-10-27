@@ -1,6 +1,6 @@
 🌍 Global University Analytics Success Dashboard 📊
 
-Collaborators: [Mohammed Ajmal Patel](https://github.com/AjmalPatel16), [Ankit Pandey](https://github.com/ankit24067), [Aman Patel](https://github.com/AmaanPatel786)
+Collaborators: [Mohammed Ajmal Patel](https://github.com/AjmalPatel16), [Ankit Pandey](https://github.com/ankit24067), [Amaan Patel](https://github.com/AmaanPatel786)
 
 Project Overview
 The Global University Analytics Success Dashboard provides an in-depth look at global higher education trends. Leveraging Power BI, it translates complex datasets into interactive visuals that assess university performance across countries, empowering educators, students, and policymakers with valuable insights to track academic trends and make informed decisions.
