@@ -1,48 +1,49 @@
-Global University Analytics Success Dashboard 📊
+🌍 Global University Analytics Success Dashboard 📊
 
 Collaborators: [Mohammed Ajmal Patel](https://github.com/AjmalPatel.16), [Ankit Pandey](https://github.com/ankit24067), [Aman Patel](https://github.com/)
 
 Project Overview
-The "Global University Analytics Success" dashboard provides an in-depth look at global higher education trends, using data-driven insights to assess university performance across multiple countries. Developed in Power BI, this dashboard enables users to explore essential metrics, such as ranking trends, country comparisons, and student demographics, through interactive visuals. This tool empowers educators, students, and policy makers with valuable information to monitor academic trends, track shifts in rankings, and support informed decision-making.
+The Global University Analytics Success Dashboard provides an in-depth look at global higher education trends. Leveraging Power BI, it translates complex datasets into interactive visuals that assess university performance across countries, empowering educators, students, and policymakers with valuable insights to track academic trends and make informed decisions.
 
-Objectives
-The project was designed with the following core objectives in mind:
+🎯 Objectives
+Our project is designed with the following objectives in mind:
 
-University Rankings: Compare and analyze global university rankings to reveal the distribution of high-performing institutions across various regions.
-Critical Success Factors: Identify the factors most influential in university success, such as faculty-student ratios, international student ratios, and research impact.
-Regional Insights: Provide a closer look at the regional trends, allowing insights into national education systems' strengths and areas for improvement.
+University Rankings: Analyze and compare global university rankings to reveal the distribution of high-performing institutions across regions.
+Critical Success Factors: Identify key factors like faculty-student ratios, international student ratios, and research impact that influence university success.
+Regional Insights: Dive into regional trends to uncover national education system strengths and areas for improvement.
+📊 Dataset Details
+Our analysis utilized a comprehensive dataset including:
 
-Dataset Details
-This project utilized a comprehensive dataset including:
+Countries: A list of representative countries covered by each ranking system.
+Universities: Universities linked to specific countries and ranking data.
+Ranking Systems: Times Higher Education, Shanghai Ranking, and CWUR, each with unique metrics such as citations, quality of education, and research output.
+Ranking Criteria: Metrics contributing to each institution’s score.
+Yearly Metrics: Statistics on student numbers, faculty-student ratios, and rankings over time.
+🛠️ Data Preprocessing
+To ensure accuracy and relevance, we processed the data through:
 
-Countries: A representative set of countries covered by each ranking system.
-Universities: An extensive list of universities, each linked to country and ranking data.
-Ranking Systems: Data from three ranking systems (Times Higher Education, Shanghai Ranking, and CWUR), with criteria like citations, quality of education, and research impact.
-Ranking Criteria: Specific criteria used in each ranking system, contributing to an institution's total score.
-Yearly Metrics: Year-wise statistics on student numbers, faculty-student ratios, and ranking scores.
+Data Cleaning: Addressed missing values, removed duplicates, and standardized university and country names.
+Data Transformation: Created new metrics, such as student success rates and faculty-to-student ratios, to capture key trends.
+Data Reduction: Filtered unnecessary columns to enhance dashboard performance, focusing on critical variables like university rankings, research output, and graduation rates.
+📈 Dashboard Views
+🌎 Country Analysis
+Highlights top-performing countries in higher education, with the U.S., U.K., Australia, Germany, and Canada leading in international student enrollment. Countries like South Korea, Turkey, and Israel demonstrate significant gender diversity.
 
-Data Preprocessing
-The data preparation process involved several key steps to ensure accuracy and relevance:
+🎓 University Analysis
+Analyzes institutions such as Arizona State University, University of Massachusetts, and University of Toronto, which lead in student numbers, alongside universities with high international student ratios and optimal student-staff ratios.
 
-Data Cleaning: Handled missing values, removed duplicates, and standardized university and country names for consistency.
-Data Transformation: Created new metrics, including student success rates and faculty-to-student ratios, to capture essential trends.
-Data Reduction: Filtered out irrelevant columns to enhance dashboard performance, focusing on variables like university rankings, research output, and graduation rates.
+📊 Ranking Analysis
+Compares ranking systems—CWUR, Times Higher Education, and Shanghai Ranking—across metrics like gender diversity and student-staff ratios. CWUR ranks the highest number of universities, while Times Higher Education has the best student-staff ratio.
 
-Dashboard Views
-Country Analysis: Highlights top-performing countries in higher education, with the U.S., U.K., Australia, Germany, and Canada leading in international student enrollment. Countries like South Korea, Turkey, and Israel show significant gender diversity in higher education.
-University Analysis: Analyzes institutions like Arizona State University, University of Massachusetts, and University of Toronto, which lead in total student numbers, as well as universities with high international student representation and optimal student-staff ratios.
-Ranking Analysis: Compares ranking systems (CWUR, Times Higher Education, and Shanghai Ranking) on metrics such as gender diversity and student-staff ratios. CWUR ranks the highest number of universities, while Times Higher Education has the best student-staff ratio.
-Yearly Analysis: Tracks educational growth, gender diversity, and enrollment trends across years, revealing peaks and declines. Key findings include increased female student enrollment through 2016 and rapid university expansion after 2012.
+📆 Yearly Analysis
+Tracks educational growth, gender diversity, and enrollment trends across years, highlighting peaks and declines. Findings show increased female student enrollment through 2016 and significant university expansion after 2012.
 
-Insights
-Diversity and International Appeal: High-ranking universities attract more international students and offer favorable student-staff ratios, pointing to the influence of faculty resources on ranking.
-Gender Representation: Data shows a moderate positive correlation between ranking scores and female student percentage, emphasizing the role of gender diversity in higher education success.
-Growth Trends: Between 2006 and 2016, international student percentages grew significantly, alongside a steady rise in total student enrollment, peaking in 2014 and 2015.
-
-Presentation
-This project was showcased at SDBI, where we presented the dashboard’s functionality and its implications for data-driven decision-making in the academic sector. The response was highly positive, affirming the dashboard’s potential as a valuable resource for stakeholders in education.
+🔍 Key Insights
+Diversity & International Appeal: High-ranking universities attract more international students and maintain favorable student-staff ratios.
+Gender Representation: A positive correlation exists between ranking scores and female student percentages, underscoring the role of gender diversity in higher education.
+Growth Trends: From 2006 to 2016, international student percentages rose significantly, peaking in 2014 and 2015.
+🎤 Presentation
+We showcased this project at SDBI, where we presented the dashboard’s capabilities and its impact on data-driven decision-making in academia. The positive response affirmed its potential as a powerful tool for educational stakeholders.
 
 Conclusion
-This Global University Success Analysis Dashboard has been instrumental in enhancing our understanding of global education systems, highlighting success factors and trends that contribute to university performance. It serves as a practical example of how data visualization can simplify complex information for impactful insights.
-
-
+The Global University Success Analysis Dashboard enhances our understanding of global education systems by highlighting critical success factors and trends that shape university performance. This project is a practical example of how data visualization can transform complex information into meaningful insights.
