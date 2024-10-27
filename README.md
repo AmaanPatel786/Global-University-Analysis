@@ -1,5 +1,5 @@
 Global University Analytics Success Dashboard 📊
-Collaborators: Mohammed Ajmal Patel, Ankit Pandey, Aman Patil
+Collaborators: Mohammed Ajmal Patel, Ankit Pandey, Aman Patel
 
 Project Overview
 The "Global University Analytics Success" dashboard provides an in-depth look at global higher education trends, using data-driven insights to assess university performance across multiple countries. Developed in Power BI, this dashboard enables users to explore essential metrics, such as ranking trends, country comparisons, and student demographics, through interactive visuals. This tool empowers educators, students, and policy makers with valuable information to monitor academic trends, track shifts in rankings, and support informed decision-making.
